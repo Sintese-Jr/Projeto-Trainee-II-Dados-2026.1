@@ -1,0 +1,6 @@
+#Dados
+dados/bruto/*
+dados/processado/*
+
+!dados/bruto/.gitkeep
+!dados/processado/.gitkeep
