@@ -1,0 +1,501 @@
+id,nome_do_cliente,data_de_assinatura,dias_desde_ultimo_acesso,idade_do_usuario,horas_consumidas,series_concluidas,series_abandonadas,tickets_suporte_abertos,plano_atual,metodo_de_pagamento,dispositivo_mais_acesso,genero_favorito,idade_do_usuário,camcelou
+10000,Cliente_0,2025-11-04,5,27,185,7,4,0,Premium,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10001,Cliente_1,2026-04-30,9,18,118,5,2,1,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10002,Cliente_2,2024-12-04,30,31,73,4,3,0,Padrão,Cartão de Crédito,Web,,,Não
+10003,Cliente_3,2025-02-04,1,25,130,3,6,0,Padrão,Pix,Mobile,Comédia,,Não
+10004,Cliente_4,2025-03-20,11,24,139,4,3,0,Padrão,Boleto,Mobile,Drama,,Não
+10005,Cliente_5,2025-09-08,5,36,109,4,4,1,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10006,Cliente_6,2025-11-23,21,46,78,6,3,1,Padrão,Boleto,Smart TV,Ação,,Não
+10007,Cliente_7,2025-12-24,6,51,173,6,1,2,Padrão,Pix,Mobile,Ação,,Não
+10008,Cliente_8,2024-02-07,23,18,170,6,4,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10009,Cliente_9,2026-04-16,7,49,26,3,3,1,Básico,Boleto,Smart TV,Drama,,Não
+10010,Cliente_10,2026-04-20,14,46,136,7,3,1,Básico,Boleto,Smart TV,,,Não
+10011,Cliente_11,2025-12-11,18,31,143,6,1,0,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10012,Cliente_12,2025-03-30,5,41,176,4,3,2,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10013,Cliente_13,2025-03-01,8,27,51,7,3,0,Básico,Pix,Mobile,Comédia,,Não
+10014,Cliente_14,2023-08-21,27,18,94,7,6,0,Padrão,Boleto,Mobile,Comédia,,Não
+10015,Cliente_15,2026-04-27,8,32,172,2,4,2,Padrão,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10016,Cliente_16,2025-05-09,9,33,144,4,2,1,Básico,Cartão de Crédito,Web,Drama,,Não
+10017,Cliente_17,2024-02-12,13,18,130,3,4,1,Padrão,Cartão de Crédito,Web,Comédia,,Não
+10018,Cliente_18,2025-03-26,22,40,232,6,5,1,Premium,Pix,Smart TV,Ação,,Não
+10019,Cliente_19,2023-12-14,1,56,207,1,4,0,Básico,Pix,Smart TV,Ação,,Não
+10020,Cliente_20,2024-11-28,13,41,84,7,5,2,Padrão,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10021,Cliente_21,2026-06-07,30,37,139,7,1,1,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10022,Cliente_22,2025-07-29,6,50,80,6,3,3,Premium,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10023,Cliente_23,2024-02-06,17,56,144,4,2,2,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10024,Cliente_24,2024-07-24,4,18,191,4,6,2,Básico,Cartão de Crédito,Web,Drama,,Não
+10025,Cliente_25,2024-11-28,1,22,109,4,2,1,Premium,Boleto,Web,Ficcção Científica,,Não
+10026,Cliente_26,2025-08-06,2,31,132,5,1,1,Premium,Cartão de Crédito,Web,Ação,,Não
+10027,Cliente_27,2025-04-06,19,35,20,3,2,0,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10028,Cliente_28,2024-07-31,13,18,126,4,2,5,Premium,Cartão de Crédito,Web,Comédia,,Não
+10029,Cliente_29,2025-11-23,3,44,108,6,3,1,Básico,Cartão de Crédito,Web,Ficcção Científica,,Não
+10030,Cliente_30,2025-12-13,0,29,135,2,3,3,Padrão,Cartão de Crédito,Web,Ação,,Não
+10031,Cliente_31,2024-05-03,26,39,93,7,3,0,Padrão,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10032,Cliente_32,2025-12-04,18,30,74,6,1,5,Básico,Cartão de Crédito,Web,Documentário,,Não
+10033,Cliente_33,2024-06-15,9,55,179,5,1,0,Básico,Boleto,Mobile,Drama,,Não
+10034,Cliente_34,2024-07-16,3,28,68,2,3,2,Básico,Cartão de Crédito,Web,Documentário,,Não
+10035,Cliente_35,2024-12-26,50,33,68,4,4,1,Básico,Boleto,Smart TV,Comédia,,Não
+10036,Cliente_36,2026-03-24,7,41,129,7,4,1,Premium,Cartão de Crédito,Mobile,Comédia,,Não
+10037,Cliente_37,2023-11-23,39,32,251,5,2,3,Básico,Cartão de Crédito,Smart TV,Comédia,,Sim
+10038,Cliente_38,2025-10-08,3,29,131,4,1,0,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10039,Cliente_39,2024-05-06,32,51,88,4,7,1,Básico,Cartão de Crédito,Mobile,Drama,150.0,Sim
+10040,Cliente_40,2026-01-10,11,31,88,5,4,2,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10041,Cliente_41,2024-10-28,43,31,143,3,3,1,Padrão,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10042,Cliente_42,2024-06-10,1,34,154,7,5,1,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10043,Cliente_43,2025-05-23,70,38,88,8,4,2,Básico,Cartão de Crédito,Mobile,Documentário,,Não
+10044,Cliente_44,2026-01-29,3,36,19,4,4,2,Premium,Cartão de Crédito,Mobile,Comédia,,Não
+10045,Cliente_45,2026-03-19,1,18,103,4,1,1,Básico,Pix,Smart TV,Ação,,Não
+10046,Cliente_46,2025-03-11,12,48,199,3,5,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10047,Cliente_47,2024-11-05,17,29,89,9,2,0,Padrão,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10048,Cliente_48,2026-01-08,7,48,112,7,5,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10049,Cliente_49,2025-03-01,17,39,40,2,4,1,Básico,Pix,Smart TV,Documentário,,Não
+10050,Cliente_50,2025-11-26,43,37,132,2,3,0,Premium,Cartão de Crédito,Mobile,Ação,,Não
+10051,Cliente_51,2024-05-03,23,18,87,8,1,1,Básico,Boleto,Smart TV,Drama,,Não
+10052,Cliente_52,2024-11-28,32,24,116,8,2,2,Padrão,Pix,Smart TV,Comédia,,Não
+10053,Cliente_53,2023-12-05,34,24,85,3,2,1,Básico,Pix,Mobile,Drama,,Não
+10054,Cliente_54,2024-06-03,5,30,42,5,1,1,Básico,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10055,Cliente_55,2025-07-22,18,20,105,13,1,1,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10056,Cliente_56,2024-05-23,20,35,216,9,3,1,Básico,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10057,Cliente_57,2024-06-23,1,58,181,3,3,1,Padrão,Cartão de Crédito,Web,Drama,,Não
+10058,Cliente_58,2025-04-17,9,23,132,4,4,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10059,Cliente_59,2024-12-21,16,52,87,6,3,1,Básico,Pix,Mobile,Documentário,,Não
+10060,Cliente_60,2026-01-25,5,24,105,6,2,0,Premium,Pix,Mobile,Comédia,,Não
+10061,Cliente_61,2025-07-05,15,18,171,8,4,1,Básico,Boleto,Smart TV,Comédia,,Não
+10062,Cliente_62,2025-02-04,0,18,120,3,4,1,Básico,Cartão de Crédito,Web,Comédia,,Não
+10063,Cliente_63,2025-07-21,13,26,104,6,6,1,Básico,Boleto,Smart TV,Ficcção Científica,,Não
+10064,Cliente_64,2023-11-17,1,21,102,3,1,0,Básico,Pix,Smart TV,Ficcção Científica,,Não
+10065,Cliente_65,2024-05-04,17,38,118,6,3,3,Básico,Cartão de Crédito,Web,Ação,,Não
+10066,Cliente_66,2024-12-15,16,27,249,7,2,2,Básico,Cartão de Crédito,Smart TV,,,Não
+10067,Cliente_67,2025-03-28,14,53,79,4,2,1,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10068,Cliente_68,2024-08-25,4,50,112,8,3,1,Padrão,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10069,Cliente_69,2026-02-26,16,36,131,4,4,1,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10070,Cliente_70,2025-03-08,8,38,176,2,3,0,Básico,Pix,Web,Comédia,,Não
+10071,Cliente_71,2026-04-16,11,21,242,6,0,1,Premium,Cartão de Crédito,Mobile,Comédia,,Não
+10072,Cliente_72,2024-09-12,17,33,175,2,2,0,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10073,Cliente_73,2024-03-21,6,29,72,1,2,1,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10074,Cliente_74,2024-12-19,78,40,154,2,2,0,Básico,Boleto,Mobile,Comédia,,Não
+10075,Cliente_75,2026-02-05,0,43,171,6,4,1,Padrão,Boleto,Mobile,Drama,,Não
+10076,Cliente_76,2025-04-14,19,30,105,6,0,1,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10077,Cliente_77,2024-09-14,4,51,75,4,6,1,Padrão,Cartão de Crédito,Web,Ação,,Não
+10078,Cliente_78,2025-04-11,60,49,140,5,2,2,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10079,Cliente_79,2023-09-02,11,34,140,5,4,0,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10080,Cliente_80,2024-04-01,23,66,132,4,6,1,Básico,Pix,Smart TV,Drama,,Não
+10081,Cliente_81,2023-11-24,3,37,39,7,1,1,Premium,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10082,Cliente_82,2025-09-01,31,39,140,9,2,0,Básico,Cartão de Crédito,Smart TV,Ficcção Científica,,Sim
+10083,Cliente_83,2024-12-25,50,39,178,2,5,0,Básico,Pix,Web,Comédia,,Não
+10084,Cliente_84,2025-09-08,11,41,151,5,3,0,Básico,Boleto,Smart TV,Comédia,,Não
+10085,Cliente_85,2025-01-31,28,18,89,4,6,2,Premium,Pix,Smart TV,Drama,,Não
+10086,Cliente_86,2024-12-29,16,34,140,12,2,0,Básico,Cartão de Crédito,Web,Ação,,Não
+10087,Cliente_87,2024-01-25,4,23,172,4,3,0,Básico,Cartão de Crédito,Web,Ação,,Não
+10088,Cliente_88,2024-03-25,37,34,124,7,3,0,Padrão,Boleto,Mobile,Comédia,,Não
+10089,Cliente_89,2024-06-09,22,46,119,4,1,0,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10090,Cliente_90,2025-03-28,33,47,119,6,1,1,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10091,Cliente_91,2025-09-10,6,39,139,10,3,1,Básico,Boleto,Smart TV,Comédia,,Não
+10092,Cliente_92,2023-08-12,9,41,82,4,4,1,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10093,Cliente_93,2023-09-14,5,18,179,1,3,2,Básico,Cartão de Crédito,Mobile,Ação,,Não
+10094,Cliente_94,2025-12-16,6,30,144,3,2,1,Premium,Cartão de Crédito,Web,Ação,,Não
+10095,Cliente_95,2026-03-16,4,22,157,8,6,4,Básico,Cartão de Crédito,Smart TV,Documentário,,Sim
+10096,Cliente_96,2025-11-08,19,18,102,1,0,1,Premium,Pix,Mobile,Ficcção Científica,,Não
+10097,Cliente_97,2025-08-11,7,31,149,3,3,2,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10098,Cliente_98,2025-07-28,19,46,154,4,4,2,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10099,Cliente_99,2024-02-07,16,36,166,4,1,0,Padrão,Pix,Smart TV,Drama,,Não
+10100,Cliente_100,2026-02-10,12,19,106,6,3,1,Padrão,Boleto,Smart TV,Ficcção Científica,,Não
+10101,Cliente_101,2024-04-23,16,40,87,5,5,1,Básico,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10102,Cliente_102,2024-04-30,12,44,86,5,7,0,Básico,Boleto,Smart TV,Drama,,Não
+10103,Cliente_103,2023-11-05,19,57,110,5,2,0,Básico,Pix,Mobile,Comédia,,Não
+10104,Cliente_104,2025-01-22,5,18,146,10,4,1,Básico,Pix,Smart TV,Comédia,,Não
+10105,Cliente_105,2026-05-28,22,27,127,7,3,1,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10106,Cliente_106,2025-10-29,5,26,158,7,2,1,Básico,Cartão de Crédito,Mobile,Ação,,Não
+10107,Cliente_107,2024-12-21,57,46,141,5,1,1,Premium,Boleto,Mobile,Ficcção Científica,,Não
+10108,Cliente_108,2024-07-24,7,19,123,8,3,1,Básico,Cartão de Crédito,Web,Documentário,,Não
+10109,Cliente_109,2025-11-04,0,39,188,3,6,0,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10110,Cliente_110,2024-10-27,9,34,80,5,4,2,Premium,Cartão de Crédito,Mobile,Drama,,Não
+10111,Cliente_111,2024-01-12,46,26,161,7,0,0,Básico,Cartão de Crédito,Web,Ação,,Não
+10112,Cliente_112,2025-08-01,15,29,184,3,2,0,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10113,Cliente_113,2023-12-04,1,22,100,3,3,0,Premium,Boleto,Mobile,Ação,,Não
+10114,Cliente_114,2026-06-14,1,32,182,6,2,1,Premium,Pix,Smart TV,Comédia,,Não
+10115,Cliente_115,2024-12-28,8,34,144,3,2,0,Básico,Pix,Mobile,Ação,,Não
+10116,Cliente_116,2023-08-30,3,26,49,4,3,1,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10117,Cliente_117,2025-06-20,13,18,132,7,4,1,Premium,Pix,Mobile,Drama,,Não
+10118,Cliente_118,2023-08-16,40,49,155,6,5,0,Premium,Cartão de Crédito,Mobile,Documentário,,Não
+10119,Cliente_119,2025-11-15,50,36,168,6,6,0,Básico,Boleto,Mobile,Drama,,Sim
+10120,Cliente_120,2024-10-17,38,41,266,3,2,1,Premium,Boleto,Smart TV,Comédia,,Não
+10121,Cliente_121,2023-08-16,5,32,133,4,5,1,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10122,Cliente_122,2025-05-09,56,43,125,3,2,1,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10123,Cliente_123,2025-08-11,5,18,108,5,4,1,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10124,Cliente_124,2024-05-16,14,32,160,3,3,1,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10125,Cliente_125,2025-07-25,33,26,179,6,4,0,Padrão,Pix,Smart TV,Ação,,Não
+10126,Cliente_126,2026-06-19,16,26,98,3,3,2,Básico,Pix,Smart TV,Ação,150.0,Não
+10127,Cliente_127,2024-08-26,85,46,117,12,3,0,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10128,Cliente_128,2023-09-24,6,18,182,4,0,0,Básico,Pix,Smart TV,Documentário,,Não
+10129,Cliente_129,2026-05-12,1,48,156,6,2,1,Básico,Pix,Smart TV,Comédia,,Não
+10130,Cliente_130,2025-11-03,3,25,56,5,1,1,Premium,Boleto,Mobile,Ficcção Científica,,Não
+10131,Cliente_131,2024-06-07,3,29,32,4,0,1,Básico,Boleto,Web,Comédia,,Não
+10132,Cliente_132,2024-09-29,35,35,143,7,3,3,Básico,Cartão de Crédito,Web,Comédia,,Sim
+10133,Cliente_133,2025-02-15,9,36,-50,5,1,3,Padrão,Boleto,Mobile,Drama,,Não
+10134,Cliente_134,2026-02-22,10,43,144,2,2,0,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10135,Cliente_135,2025-02-12,2,21,188,4,1,0,Premium,Boleto,Web,Comédia,,Não
+10136,Cliente_136,2026-01-10,3,22,164,4,1,0,Básico,Boleto,Smart TV,Drama,,Não
+10137,Cliente_137,2025-12-27,24,38,137,7,7,2,Básico,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10138,Cliente_138,2023-09-29,17,28,132,4,3,1,Padrão,Cartão de Crédito,Smart TV,Documentário,,Não
+10139,Cliente_139,2026-01-30,5,30,148,6,1,0,Básico,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10140,Cliente_140,2025-10-06,23,18,142,7,2,2,Premium,Cartão de Crédito,Web,Ficcção Científica,,Não
+10141,Cliente_141,2025-10-01,0,37,170,7,0,1,Premium,Boleto,Smart TV,Drama,,Não
+10142,Cliente_142,2023-10-21,1,23,87,4,4,2,Premium,Cartão de Crédito,Web,Ação,,Não
+10143,Cliente_143,2025-07-17,1,49,87,7,3,1,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10144,Cliente_144,2024-12-25,18,18,120,8,5,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10145,Cliente_145,2024-02-05,13,22,86,8,3,1,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10146,Cliente_146,2025-04-13,29,26,106,1,5,1,Premium,Cartão de Crédito,Web,Comédia,,Não
+10147,Cliente_147,2025-05-05,51,43,74,6,3,3,Básico,Boleto,Web,Comédia,,Sim
+10148,Cliente_148,2024-09-20,6,28,152,10,1,1,Padrão,Cartão de Crédito,Web,Ficcção Científica,,Não
+10149,Cliente_149,2024-03-25,14,18,77,5,3,0,Padrão,Pix,Web,Drama,,Não
+10150,Cliente_150,2024-05-17,30,40,106,4,5,3,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10151,Cliente_151,2024-01-05,3,38,95,1,2,1,Básico,Boleto,Smart TV,Comédia,,Não
+10152,Cliente_152,2023-07-27,1,25,131,4,1,0,Básico,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10153,Cliente_153,2023-12-09,60,43,193,4,2,1,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10154,Cliente_154,2025-10-16,34,51,104,7,2,1,Padrão,Cartão de Crédito,Smart TV,Drama,,Sim
+10155,Cliente_155,2025-01-29,14,26,69,11,1,1,Básico,Cartão de Crédito,Web,Drama,,Não
+10156,Cliente_156,2025-03-17,0,30,112,7,2,0,Premium,Pix,Smart TV,Comédia,,Não
+10157,Cliente_157,2026-02-09,3,29,161,3,4,4,Básico,Boleto,Mobile,Comédia,,Não
+10158,Cliente_158,2024-07-28,17,34,202,7,4,3,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10159,Cliente_159,2026-05-08,6,41,62,4,3,1,Básico,Boleto,Mobile,Documentário,,Não
+10160,Cliente_160,2025-03-06,12,51,91,8,4,0,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10161,Cliente_161,2025-03-26,0,30,145,7,4,0,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10162,Cliente_162,2026-06-06,11,42,72,6,6,2,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10163,Cliente_163,2026-01-26,2,58,123,7,1,1,Premium,Cartão de Crédito,Smart TV,Ação,,Não
+10164,Cliente_164,2026-02-20,1,38,65,5,2,0,Premium,Cartão de Crédito,Smart TV,Documentário,,Não
+10165,Cliente_165,2025-03-09,10,18,120,5,1,1,Básico,Boleto,Web,Comédia,,Não
+10166,Cliente_166,2026-02-02,10,23,147,5,2,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10167,Cliente_167,2026-04-17,34,36,186,7,2,1,Padrão,Cartão de Crédito,Web,Documentário,,Não
+10168,Cliente_168,2024-08-13,67,65,56,1,6,3,Básico,Cartão de Crédito,Mobile,Ficcção Científica,,Sim
+10169,Cliente_169,2026-01-26,1,35,156,4,2,2,Padrão,Pix,Smart TV,Drama,,Não
+10170,Cliente_170,2023-08-03,5,39,191,11,2,0,Básico,Cartão de Crédito,Web,Drama,,Não
+10171,Cliente_171,2025-02-18,19,55,151,5,3,0,Básico,Boleto,Web,Ficcção Científica,,Não
+10172,Cliente_172,2024-11-27,16,58,135,7,7,0,Básico,Pix,Mobile,Drama,,Não
+10173,Cliente_173,2023-09-30,1,56,113,4,3,1,Padrão,Pix,Smart TV,Ficcção Científica,,Não
+10174,Cliente_174,2025-04-08,0,42,45,4,4,1,Premium,Boleto,Smart TV,Comédia,,Não
+10175,Cliente_175,2025-09-23,8,30,54,1,2,1,Básico,Cartão de Crédito,Web,Drama,,Não
+10176,Cliente_176,2023-10-26,10,53,160,7,4,1,Básico,Pix,Smart TV,Drama,,Não
+10177,Cliente_177,2025-02-08,12,46,108,2,2,2,Básico,Boleto,Smart TV,Comédia,,Não
+10178,Cliente_178,2023-10-26,15,20,165,1,3,0,Premium,Pix,Mobile,Ficcção Científica,,Não
+10179,Cliente_179,2024-03-09,9,35,42,0,4,0,Premium,Cartão de Crédito,Mobile,Comédia,,Não
+10180,Cliente_180,2025-05-27,18,33,162,2,3,1,Básico,Boleto,Mobile,Comédia,,Não
+10181,Cliente_181,2025-12-09,1,20,83,3,4,0,Básico,Cartão de Crédito,Mobile,Ação,,Não
+10182,Cliente_182,2025-12-04,20,28,127,4,3,0,Básico,Boleto,Web,Drama,,Não
+10183,Cliente_183,2024-01-20,14,35,110,3,1,0,Padrão,Boleto,Mobile,Comédia,,Não
+10184,Cliente_184,2024-06-25,0,30,182,9,1,2,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10185,Cliente_185,2024-02-04,9,42,156,8,4,0,Premium,Pix,Web,Comédia,,Não
+10186,Cliente_186,2024-03-01,6,22,42,4,6,1,Básico,Pix,Smart TV,Drama,,Não
+10187,Cliente_187,2023-11-07,4,29,60,3,2,0,Básico,Cartão de Crédito,Web,Ação,,Não
+10188,Cliente_188,2026-03-02,0,24,222,4,6,0,Padrão,Pix,Smart TV,,,Não
+10189,Cliente_189,2025-12-01,56,18,144,5,4,0,Básico,Cartão de Crédito,Web,Drama,,Não
+10190,Cliente_190,2026-02-16,4,29,133,6,5,0,Básico,Boleto,Smart TV,Comédia,,Não
+10191,Cliente_191,2024-03-18,9,25,90,7,5,0,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10192,Cliente_192,2024-07-26,1,44,105,4,2,2,Padrão,Pix,Smart TV,Comédia,,Não
+10193,Cliente_193,2025-11-09,23,39,166,8,4,2,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10194,Cliente_194,2025-01-27,0,38,134,3,2,3,Padrão,Boleto,Smart TV,Comédia,,Não
+10195,Cliente_195,2025-05-24,13,36,112,1,1,2,Padrão,Pix,Web,Ficcção Científica,,Não
+10196,Cliente_196,2025-05-27,4,26,25,3,4,0,Premium,Cartão de Crédito,Smart TV,Ação,,Não
+10197,Cliente_197,2023-12-15,6,19,134,4,6,0,Padrão,Boleto,Web,Comédia,,Não
+10198,Cliente_198,2025-09-06,11,39,101,3,2,0,Premium,Cartão de Crédito,Smart TV,,,Não
+10199,Cliente_199,2024-02-07,9,18,57,3,1,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10200,Cliente_200,2025-06-10,7,23,82,3,3,1,Básico,Cartão de Crédito,Web,Comédia,,Não
+10201,Cliente_201,2024-11-27,14,43,130,7,4,1,Básico,Cartão de Crédito,Mobile,Documentário,,Não
+10202,Cliente_202,2023-11-16,11,28,202,1,4,3,Básico,Cartão de Crédito,Web,Ação,,Não
+10203,Cliente_203,2025-01-25,6,47,19,4,2,0,Padrão,Cartão de Crédito,Mobile,Drama,,Não
+10204,Cliente_204,2026-01-17,3,49,138,4,5,1,Padrão,Pix,Smart TV,Comédia,,Não
+10205,Cliente_205,2023-12-26,2,33,130,8,5,1,Básico,Pix,Smart TV,Ficcção Científica,,Não
+10206,Cliente_206,2025-12-02,0,49,198,4,2,2,Premium,Boleto,Smart TV,Drama,,Não
+10207,Cliente_207,2026-03-09,8,20,215,2,6,2,Padrão,Cartão de Crédito,Smart TV,Documentário,,Não
+10208,Cliente_208,2026-05-21,2,18,118,6,3,0,Padrão,Pix,Smart TV,Ação,,Não
+10209,Cliente_209,2025-12-11,32,31,127,6,2,0,Padrão,Cartão de Crédito,Web,Comédia,,Não
+10210,Cliente_210,2025-02-21,8,53,125,7,4,3,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10211,Cliente_211,2025-07-15,14,31,0,6,4,3,Básico,Pix,Web,Drama,,Não
+10212,Cliente_212,2024-03-10,5,49,130,7,5,3,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10213,Cliente_213,2023-09-30,4,44,210,1,3,0,Padrão,Cartão de Crédito,Web,Documentário,,Não
+10214,Cliente_214,2023-10-09,25,47,37,12,4,0,Básico,Pix,Web,Documentário,,Não
+10215,Cliente_215,2025-04-09,6,26,190,3,3,1,Básico,Cartão de Crédito,Web,Ficcção Científica,,Não
+10216,Cliente_216,2024-03-21,1,45,127,11,4,2,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10217,Cliente_217,2026-02-20,5,18,88,3,7,1,Premium,Pix,Smart TV,Comédia,,Não
+10218,Cliente_218,2025-07-18,1,39,44,5,2,0,Básico,Boleto,Web,Comédia,,Não
+10219,Cliente_219,2024-05-05,9,42,167,3,3,1,Básico,Cartão de Crédito,Smart TV,Drama,150.0,Não
+10220,Cliente_220,2026-06-16,5,34,193,4,3,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10221,Cliente_221,2024-04-12,25,57,194,6,2,3,Básico,Cartão de Crédito,Web,Documentário,,Não
+10222,Cliente_222,2024-12-24,1,53,187,6,3,3,Básico,Pix,Smart TV,Ficcção Científica,,Não
+10223,Cliente_223,2023-12-02,62,40,79,3,4,0,Padrão,Pix,Smart TV,Drama,,Não
+10224,Cliente_224,2024-11-13,23,22,76,4,3,0,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10225,Cliente_225,2024-02-05,16,24,129,9,6,1,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10226,Cliente_226,2023-09-28,0,33,172,7,4,0,Premium,Cartão de Crédito,Web,Documentário,,Não
+10227,Cliente_227,2025-08-07,58,50,115,7,3,0,Básico,Boleto,Smart TV,Ficcção Científica,,Não
+10228,Cliente_228,2025-05-28,21,32,92,10,6,1,Básico,Cartão de Crédito,Mobile,Ação,,Não
+10229,Cliente_229,2024-10-21,9,21,140,7,5,1,Premium,Cartão de Crédito,Mobile,Ação,,Não
+10230,Cliente_230,2025-04-01,26,46,63,6,3,3,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10231,Cliente_231,2026-02-21,6,58,90,2,1,0,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10232,Cliente_232,2026-02-16,7,18,141,7,2,1,Básico,Boleto,Mobile,Ação,,Não
+10233,Cliente_233,2024-09-16,16,27,203,5,3,1,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10234,Cliente_234,2026-02-23,38,48,208,4,4,3,Básico,Cartão de Crédito,Web,Comédia,,Sim
+10235,Cliente_235,2026-03-10,37,37,153,8,0,2,Premium,Cartão de Crédito,Web,Ficcção Científica,,Não
+10236,Cliente_236,2023-10-18,4,50,32,3,3,0,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10237,Cliente_237,2023-08-26,15,26,168,2,4,2,Padrão,Cartão de Crédito,Web,Comédia,,Não
+10238,Cliente_238,2025-08-02,32,25,126,6,4,0,Padrão,Pix,Mobile,Comédia,,Não
+10239,Cliente_239,2026-02-24,1,35,157,4,2,2,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10240,Cliente_240,2023-08-15,3,29,84,5,8,1,Padrão,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10241,Cliente_241,2026-01-07,23,33,143,3,2,0,Básico,Cartão de Crédito,Web,Ficcção Científica,,Não
+10242,Cliente_242,2025-06-05,12,31,182,7,0,1,,Boleto,Mobile,Ficcção Científica,,Não
+10243,Cliente_243,2026-01-31,0,18,88,13,4,0,Básico,Cartão de Crédito,Web,Comédia,,Não
+10244,Cliente_244,2026-02-01,11,31,182,7,8,0,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10245,Cliente_245,2025-02-24,38,33,75,6,6,1,Premium,Boleto,Web,Drama,,Sim
+10246,Cliente_246,2024-03-16,3,40,191,4,7,2,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10247,Cliente_247,2025-10-18,1,34,117,6,2,1,Padrão,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10248,Cliente_248,2025-02-01,43,20,76,4,0,1,Padrão,Cartão de Crédito,Mobile,Ficcção Científica,,Sim
+10249,Cliente_249,2026-03-31,7,21,162,6,4,0,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10250,Cliente_250,2026-01-04,22,37,101,7,3,1,Básico,Boleto,Web,Ficcção Científica,,Não
+10251,Cliente_251,2024-02-13,13,21,69,6,5,0,Premium,Cartão de Crédito,Web,Ação,,Não
+10252,Cliente_252,2024-09-11,3,18,79,5,4,1,Premium,Pix,Smart TV,Ficcção Científica,,Não
+10253,Cliente_253,2025-01-02,3,43,54,6,1,0,Básico,Pix,Smart TV,Comédia,,Não
+10254,Cliente_254,2025-04-28,20,33,116,7,3,0,Básico,Pix,Smart TV,Comédia,,Não
+10255,Cliente_255,2024-09-15,15,44,82,4,2,2,Premium,Pix,Smart TV,Drama,,Não
+10256,Cliente_256,2025-02-17,0,37,60,3,5,2,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10257,Cliente_257,2024-12-24,10,22,185,6,5,2,Básico,Cartão de Crédito,Mobile,Ação,,Não
+10258,Cliente_258,2024-04-01,37,21,176,10,1,1,Básico,Cartão de Crédito,Smart TV,Comédia,,Sim
+10259,Cliente_259,2025-09-25,11,46,181,2,2,0,Padrão,Pix,Mobile,,,Não
+10260,Cliente_260,2024-10-14,0,45,120,4,2,1,Padrão,Pix,Mobile,Comédia,,Não
+10261,Cliente_261,2023-11-27,10,30,70,6,4,0,Premium,Cartão de Crédito,Mobile,Documentário,,Não
+10262,Cliente_262,2024-09-11,0,21,65,1,0,2,Básico,Boleto,Web,Comédia,,Não
+10263,Cliente_263,2026-01-23,9,43,151,1,2,1,Premium,Boleto,Mobile,Comédia,,Não
+10264,Cliente_264,2026-06-01,20,18,236,5,1,1,Padrão,Cartão de Crédito,Mobile,Drama,,Não
+10265,Cliente_265,2023-11-25,2,30,197,1,3,0,Premium,Cartão de Crédito,Mobile,Comédia,,Não
+10266,Cliente_266,2025-11-28,6,49,150,7,2,3,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10267,Cliente_267,2026-01-21,3,33,142,9,5,0,Premium,Cartão de Crédito,Mobile,Ação,,Não
+10268,Cliente_268,2025-04-10,7,29,106,4,1,1,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10269,Cliente_269,2023-08-19,2,25,161,3,2,2,Básico,Pix,Mobile,Ficcção Científica,,Não
+10270,Cliente_270,2024-12-24,4,35,85,5,5,0,Premium,Pix,Web,Drama,,Não
+10271,Cliente_271,2025-09-22,2,49,7,3,3,1,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10272,Cliente_272,2024-07-06,7,36,82,1,4,1,Padrão,Boleto,Mobile,Drama,,Não
+10273,Cliente_273,2026-01-31,9,42,110,10,1,0,Premium,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10274,Cliente_274,2025-02-05,13,44,54,2,2,0,Padrão,Boleto,Web,Comédia,,Não
+10275,Cliente_275,2024-05-25,21,52,171,5,3,0,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10276,Cliente_276,2024-11-14,1,24,78,3,2,1,Padrão,Cartão de Crédito,Mobile,Drama,,Não
+10277,Cliente_277,2025-08-01,30,46,167,4,2,2,Padrão,Cartão de Crédito,Web,Ação,,Não
+10278,Cliente_278,2024-01-05,18,47,155,3,2,1,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10279,Cliente_279,2024-10-09,1,18,119,6,4,2,Premium,Boleto,Web,Drama,,Não
+10280,Cliente_280,2026-06-04,7,30,139,8,3,1,Padrão,Pix,Smart TV,Drama,,Não
+10281,Cliente_281,2024-10-15,7,41,156,8,3,0,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10282,Cliente_282,2025-11-20,18,34,112,4,3,1,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10283,Cliente_283,2025-09-18,2,41,207,3,4,2,Premium,Pix,Smart TV,Ficcção Científica,,Não
+10284,Cliente_284,2024-12-26,0,42,50,4,5,0,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10285,Cliente_285,2025-10-27,0,33,97,3,4,0,Premium,Pix,Smart TV,Comédia,,Não
+10286,Cliente_286,2025-11-13,30,27,119,8,3,1,Básico,Pix,Mobile,Documentário,,Não
+10287,Cliente_287,2025-08-06,14,31,228,4,3,2,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10288,Cliente_288,2024-12-10,0,20,76,3,3,3,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10289,Cliente_289,2024-11-20,41,18,206,7,1,1,Padrão,Boleto,Smart TV,Comédia,,Não
+10290,Cliente_290,2025-04-15,1,42,87,10,1,0,Padrão,Cartão de Crédito,Web,Drama,,Não
+10291,Cliente_291,2024-07-18,20,45,168,4,3,1,Premium,Cartão de Crédito,Mobile,Ação,,Não
+10292,Cliente_292,2025-04-30,28,20,109,4,3,3,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10293,Cliente_293,2024-12-27,15,40,59,11,5,0,Premium,Cartão de Crédito,Smart TV,Ação,,Não
+10294,Cliente_294,2023-08-20,1,38,183,4,6,2,Básico,Cartão de Crédito,Mobile,Documentário,,Não
+10295,Cliente_295,2023-09-24,12,18,108,7,5,3,Premium,Cartão de Crédito,Web,Ficcção Científica,,Não
+10296,Cliente_296,2025-01-22,9,58,79,10,7,0,Padrão,Cartão de Crédito,Web,Ficcção Científica,,Não
+10297,Cliente_297,2026-03-08,21,32,102,4,1,2,Premium,Pix,Mobile,Drama,,Não
+10298,Cliente_298,2025-12-13,4,39,56,4,3,2,Padrão,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10299,Cliente_299,2024-02-04,17,38,93,7,0,0,Premium,Cartão de Crédito,Web,Ficcção Científica,,Não
+10300,Cliente_300,2024-12-01,3,35,120,5,7,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10301,Cliente_301,2026-03-22,18,41,138,2,2,0,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10302,Cliente_302,2026-06-13,4,53,176,6,6,2,Básico,Cartão de Crédito,Mobile,Documentário,,Não
+10303,Cliente_303,2024-08-06,65,59,142,3,2,1,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10304,Cliente_304,2025-09-26,39,37,0,4,7,0,Básico,Boleto,Smart TV,Comédia,,Sim
+10305,Cliente_305,2024-12-31,10,38,154,5,6,1,Padrão,Boleto,Smart TV,Ficcção Científica,,Não
+10306,Cliente_306,2025-07-25,18,58,63,6,5,0,Básico,Pix,Mobile,Comédia,,Não
+10307,Cliente_307,2023-12-29,25,34,134,3,5,1,Premium,Cartão de Crédito,Mobile,Comédia,,Não
+10308,Cliente_308,2024-01-27,17,24,144,4,1,1,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10309,Cliente_309,2026-06-01,25,28,176,7,2,0,,Boleto,Smart TV,Comédia,,Não
+10310,Cliente_310,2025-11-03,5,33,162,5,2,3,Padrão,Pix,Smart TV,Comédia,,Não
+10311,Cliente_311,2026-01-17,1,28,92,2,3,1,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10312,Cliente_312,2025-08-19,1,50,196,1,0,0,Básico,Cartão de Crédito,Mobile,Ação,,Não
+10313,Cliente_313,2026-04-08,15,27,92,7,2,1,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10314,Cliente_314,2024-05-25,9,19,77,4,6,0,Básico,Boleto,Smart TV,Ação,,Não
+10315,Cliente_315,2025-08-21,25,35,167,3,4,0,Básico,Boleto,Web,Drama,,Não
+10316,Cliente_316,2024-01-22,0,44,145,9,3,0,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10317,Cliente_317,2025-10-02,11,43,114,10,6,0,Básico,Pix,Web,Documentário,,Não
+10318,Cliente_318,2026-03-27,2,31,161,5,5,3,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10319,Cliente_319,2024-09-27,18,33,107,10,5,0,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10320,Cliente_320,2024-06-04,5,35,128,4,6,2,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10321,Cliente_321,2026-03-31,4,21,188,5,3,2,Básico,Cartão de Crédito,Web,Ação,,Não
+10322,Cliente_322,2024-06-18,0,31,136,6,4,0,Básico,Cartão de Crédito,Web,Comédia,,Não
+10323,Cliente_323,2025-04-16,10,21,91,7,5,0,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10324,Cliente_324,2025-01-25,13,18,101,5,4,1,Padrão,Pix,Web,Documentário,,Não
+10325,Cliente_325,2025-11-22,17,53,214,7,3,0,Básico,Pix,Mobile,Ficcção Científica,,Não
+10326,Cliente_326,2024-06-26,65,27,89,2,2,2,Básico,Pix,Smart TV,Ficcção Científica,,Não
+10327,Cliente_327,2024-03-10,12,37,118,5,2,0,Padrão,Cartão de Crédito,Web,Comédia,,Não
+10328,Cliente_328,2025-08-08,15,38,70,3,3,2,Básico,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10329,Cliente_329,2025-02-21,13,38,23,5,3,1,Padrão,Cartão de Crédito,Smart TV,Ação,,Não
+10330,Cliente_330,2025-07-23,17,45,96,4,3,2,Padrão,Cartão de Crédito,Smart TV,Documentário,,Não
+10331,Cliente_331,2025-06-23,38,25,93,3,4,1,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10332,Cliente_332,2024-02-27,50,39,123,5,5,0,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10333,Cliente_333,2026-05-01,13,39,32,5,3,1,Premium,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10334,Cliente_334,2025-06-18,13,40,119,5,4,1,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10335,Cliente_335,2024-08-09,26,34,80,7,2,1,Premium,Pix,Web,Documentário,,Não
+10336,Cliente_336,2024-02-28,0,38,131,6,3,2,Padrão,Boleto,Web,Drama,,Não
+10337,Cliente_337,2025-01-28,3,42,8,2,1,1,Padrão,Pix,Smart TV,Drama,,Não
+10338,Cliente_338,2024-12-21,2,41,182,3,2,2,Básico,Cartão de Crédito,Smart TV,Ação,150.0,Não
+10339,Cliente_339,2025-07-29,1,36,129,7,2,0,Padrão,Cartão de Crédito,Smart TV,Documentário,,Não
+10340,Cliente_340,2025-11-11,6,62,174,6,2,0,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10341,Cliente_341,2024-04-28,20,20,98,5,5,1,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10342,Cliente_342,2026-04-02,13,30,131,1,2,0,Básico,Pix,Web,Comédia,,Não
+10343,Cliente_343,2023-10-31,4,35,54,3,2,0,Premium,Pix,Mobile,Drama,,Não
+10344,Cliente_344,2025-03-22,33,27,75,3,3,0,Premium,Pix,Smart TV,Comédia,,Sim
+10345,Cliente_345,2025-05-08,5,28,59,4,4,2,Premium,Cartão de Crédito,Web,Ficcção Científica,,Não
+10346,Cliente_346,2023-11-21,11,19,78,7,1,1,Básico,Pix,Web,Comédia,,Não
+10347,Cliente_347,2024-07-04,0,24,65,7,3,0,Padrão,Pix,Mobile,Ação,,Não
+10348,Cliente_348,2024-10-03,27,28,199,4,5,0,Premium,Cartão de Crédito,Web,Ação,,Não
+10349,Cliente_349,2025-03-11,56,32,47,10,5,0,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10350,Cliente_350,2025-03-21,33,35,86,5,4,0,Padrão,Cartão de Crédito,Smart TV,Ação,,Não
+10351,Cliente_351,2026-05-03,7,20,124,6,3,0,Padrão,Cartão de Crédito,Web,Drama,,Não
+10352,Cliente_352,2025-05-21,2,23,197,7,5,0,Básico,Boleto,Mobile,Comédia,,Não
+10353,Cliente_353,2024-03-26,5,35,127,6,1,0,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10354,Cliente_354,2024-08-17,37,38,182,2,2,1,Básico,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10355,Cliente_355,2024-11-27,54,35,185,5,0,1,Premium,Cartão de Crédito,Smart TV,Documentário,,Sim
+10356,Cliente_356,2026-01-29,0,21,121,5,2,1,Básico,Cartão de Crédito,Web,Drama,,Não
+10357,Cliente_357,2024-11-26,2,30,74,3,3,0,Básico,Boleto,Smart TV,Drama,,Não
+10358,Cliente_358,2024-07-01,25,35,163,2,8,2,Padrão,Cartão de Crédito,Mobile,Drama,,Não
+10359,Cliente_359,2023-08-12,2,37,81,9,4,1,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10360,Cliente_360,2024-03-24,7,40,126,11,1,0,Básico,Cartão de Crédito,Web,Comédia,,Não
+10361,Cliente_361,2024-08-11,0,30,91,6,1,0,Básico,Boleto,Web,Drama,,Não
+10362,Cliente_362,2026-04-25,3,32,121,5,1,0,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10363,Cliente_363,2025-10-27,2,32,63,7,1,2,Premium,Boleto,Smart TV,Drama,,Não
+10364,Cliente_364,2025-01-02,25,38,120,8,2,1,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10365,Cliente_365,2025-06-20,0,37,92,5,3,1,Padrão,Cartão de Crédito,Web,Ficcção Científica,,Não
+10366,Cliente_366,2024-12-24,13,26,56,3,1,1,Premium,Cartão de Crédito,Web,Ação,,Não
+10367,Cliente_367,2026-04-03,13,33,184,2,3,1,Básico,Boleto,Smart TV,Drama,,Não
+10368,Cliente_368,2025-11-10,44,50,114,4,3,0,Básico,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10369,Cliente_369,2024-01-13,1,42,152,7,3,0,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10370,Cliente_370,2024-07-13,15,18,166,5,5,1,Básico,Boleto,Mobile,Comédia,,Não
+10371,Cliente_371,2024-09-16,21,41,90,8,2,0,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10372,Cliente_372,2024-01-09,0,31,150,5,6,0,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10373,Cliente_373,2023-08-08,15,58,90,9,0,1,Básico,Cartão de Crédito,Web,Drama,,Não
+10374,Cliente_374,2025-10-27,1,47,98,4,4,1,Premium,Pix,Smart TV,Ficcção Científica,,Não
+10375,Cliente_375,2024-04-23,14,39,152,3,7,1,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10376,Cliente_376,2025-05-27,5,43,91,6,0,0,Padrão,Boleto,Smart TV,Comédia,,Não
+10377,Cliente_377,2025-01-15,1,56,214,4,2,0,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10378,Cliente_378,2026-03-22,9,38,217,3,2,0,Padrão,Cartão de Crédito,Smart TV,Comédia,,Não
+10379,Cliente_379,2024-01-09,14,18,197,4,3,0,Premium,Cartão de Crédito,Web,Drama,,Não
+10380,Cliente_380,2026-06-17,5,38,140,5,3,0,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10381,Cliente_381,2023-07-22,11,38,102,5,3,1,,Boleto,Smart TV,,,Não
+10382,Cliente_382,2025-05-13,6,39,120,4,0,0,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10383,Cliente_383,2024-06-05,42,26,137,8,3,3,Básico,Boleto,Mobile,Comédia,,Sim
+10384,Cliente_384,2024-01-19,13,42,139,7,2,0,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10385,Cliente_385,2026-01-28,5,41,89,10,2,0,Padrão,Pix,Web,Ação,,Não
+10386,Cliente_386,2024-08-13,3,20,219,5,1,0,Premium,Pix,Smart TV,Drama,,Não
+10387,Cliente_387,2024-09-16,12,27,103,6,3,0,Premium,Boleto,Web,Ação,,Não
+10388,Cliente_388,2025-10-08,59,35,50,3,1,0,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10389,Cliente_389,2024-10-13,9,34,119,4,5,0,Básico,Cartão de Crédito,Web,Ficcção Científica,,Não
+10390,Cliente_390,2023-08-17,36,18,56,3,3,4,,Boleto,Mobile,Drama,,Sim
+10391,Cliente_391,2024-09-25,11,36,116,4,1,2,Premium,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10392,Cliente_392,2024-03-06,24,33,113,7,5,1,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10393,Cliente_393,2024-08-21,13,25,161,4,1,1,Padrão,Cartão de Crédito,Smart TV,Ação,,Não
+10394,Cliente_394,2024-03-18,13,30,172,6,4,2,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10395,Cliente_395,2024-10-23,8,23,86,5,2,3,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10396,Cliente_396,2025-10-03,17,36,64,8,5,4,Padrão,Cartão de Crédito,Smart TV,Drama,,Não
+10397,Cliente_397,2025-05-24,10,21,127,5,0,1,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10398,Cliente_398,2024-02-10,27,35,103,4,3,1,Padrão,Pix,Smart TV,Documentário,,Não
+10399,Cliente_399,2024-05-05,38,40,93,2,2,1,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10400,Cliente_400,2025-06-29,10,22,105,3,2,2,Padrão,Pix,Web,Ficcção Científica,,Não
+10401,Cliente_401,2024-10-12,4,23,197,6,4,0,Básico,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10402,Cliente_402,2024-03-11,8,45,54,6,3,0,Básico,Boleto,Web,Ficcção Científica,,Não
+10403,Cliente_403,2026-06-20,18,39,88,10,3,0,Básico,Cartão de Crédito,Mobile,Ação,,Não
+10404,Cliente_404,2024-10-06,10,54,70,10,4,2,Básico,Pix,Mobile,Drama,,Não
+10405,Cliente_405,2024-11-10,7,36,157,7,3,1,Básico,Boleto,Mobile,Drama,,Não
+10406,Cliente_406,2025-04-16,0,36,141,6,1,2,Básico,Cartão de Crédito,Mobile,Documentário,,Não
+10407,Cliente_407,2024-01-22,3,42,107,3,1,3,Básico,Cartão de Crédito,Smart TV,,,Não
+10408,Cliente_408,2024-08-30,27,23,135,3,5,1,Básico,Boleto,Smart TV,Ação,,Não
+10409,Cliente_409,2023-11-11,21,32,42,6,3,0,Padrão,Boleto,Smart TV,Ação,,Não
+10410,Cliente_410,2023-12-29,1,44,160,5,3,3,Padrão,Boleto,Smart TV,Comédia,,Não
+10411,Cliente_411,2023-12-28,1,40,71,4,3,1,Básico,Pix,Smart TV,Drama,,Não
+10412,Cliente_412,2025-04-09,40,19,84,6,3,1,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10413,Cliente_413,2023-08-09,23,30,152,5,4,1,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10414,Cliente_414,2023-10-25,7,44,0,6,5,1,Básico,Cartão de Crédito,Smart TV,Ação,,Não
+10415,Cliente_415,2025-07-08,53,39,108,7,2,0,Padrão,Cartão de Crédito,Smart TV,Comédia,,Sim
+10416,Cliente_416,2025-12-29,54,42,128,4,4,0,Padrão,Cartão de Crédito,Mobile,Drama,,Não
+10417,Cliente_417,2024-11-16,91,18,121,4,0,1,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10418,Cliente_418,2023-07-31,7,45,151,3,4,1,Premium,Cartão de Crédito,Mobile,Documentário,,Não
+10419,Cliente_419,2024-08-03,11,26,136,6,4,2,Padrão,Cartão de Crédito,Mobile,Documentário,,Não
+10420,Cliente_420,2025-12-11,15,30,119,3,4,0,Básico,Cartão de Crédito,Web,Documentário,,Não
+10421,Cliente_421,2025-02-24,25,22,24,2,3,4,Padrão,Cartão de Crédito,Smart TV,Ação,,Não
+10422,Cliente_422,2024-09-23,3,27,69,3,5,1,Premium,Cartão de Crédito,Smart TV,Documentário,,Não
+10423,Cliente_423,2025-03-17,5,24,104,3,6,2,Premium,Cartão de Crédito,Mobile,Ação,,Não
+10424,Cliente_424,2025-05-09,6,41,34,3,2,1,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10425,Cliente_425,2025-08-23,26,55,32,6,1,1,Básico,Pix,Smart TV,Drama,,Não
+10426,Cliente_426,2026-05-01,9,55,185,13,4,0,Básico,Cartão de Crédito,Web,Documentário,,Não
+10427,Cliente_427,2026-03-18,12,21,155,5,3,2,Básico,Cartão de Crédito,Web,Documentário,,Não
+10428,Cliente_428,2025-02-04,22,31,93,7,3,2,Básico,Boleto,Web,Documentário,,Não
+10429,Cliente_429,2023-10-21,15,18,142,6,3,0,Básico,Cartão de Crédito,Web,Drama,,Não
+10430,Cliente_430,2026-01-22,36,38,52,2,0,0,Padrão,Cartão de Crédito,Web,Ficcção Científica,,Não
+10431,Cliente_431,2023-12-01,2,29,148,9,3,1,Básico,Boleto,Web,Comédia,,Não
+10432,Cliente_432,2024-02-23,9,47,118,5,4,2,Padrão,Boleto,Smart TV,Ficcção Científica,,Não
+10433,Cliente_433,2025-05-18,7,37,197,2,4,1,Padrão,Cartão de Crédito,Web,Ação,,Não
+10434,Cliente_434,2024-04-25,25,18,163,5,1,4,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10435,Cliente_435,2023-09-12,9,28,103,8,3,2,Básico,Cartão de Crédito,Mobile,Documentário,,Não
+10436,Cliente_436,2024-03-24,38,40,210,4,2,1,Básico,Boleto,Smart TV,Comédia,,Não
+10437,Cliente_437,2025-02-06,4,28,158,5,2,0,Básico,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10438,Cliente_438,2025-08-22,4,41,164,2,3,0,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10439,Cliente_439,2026-06-09,13,18,112,3,3,0,Premium,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10440,Cliente_440,2025-11-14,0,29,206,7,2,2,Básico,Cartão de Crédito,Smart TV,Documentário,,Não
+10441,Cliente_441,2024-02-01,16,47,115,5,2,0,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10442,Cliente_442,2025-03-29,21,21,108,4,2,1,Padrão,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10443,Cliente_443,2025-06-25,4,32,178,3,3,0,Básico,Cartão de Crédito,Web,Documentário,,Não
+10444,Cliente_444,2023-07-26,6,49,118,5,3,2,Padrão,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10445,Cliente_445,2023-11-12,16,31,108,6,3,1,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10446,Cliente_446,2026-03-10,12,38,185,8,0,0,Básico,Pix,Smart TV,Ação,,Não
+10447,Cliente_447,2025-01-26,14,45,107,6,4,0,Básico,Pix,Mobile,Documentário,,Não
+10448,Cliente_448,2025-10-15,12,18,207,8,5,1,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10449,Cliente_449,2023-11-29,10,33,113,6,1,2,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10450,Cliente_450,2025-09-20,0,51,103,4,5,1,Básico,Pix,Mobile,Drama,,Não
+10451,Cliente_451,2023-11-12,6,32,140,6,1,0,Padrão,Boleto,Web,Ação,,Não
+10452,Cliente_452,2024-09-09,13,46,154,3,4,4,Premium,Pix,Smart TV,Documentário,,Não
+10453,Cliente_453,2023-12-27,24,27,80,3,6,4,Premium,Pix,Mobile,Comédia,,Sim
+10454,Cliente_454,2023-08-22,29,33,51,6,2,1,Padrão,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10455,Cliente_455,2024-01-29,6,61,71,6,1,1,Básico,Pix,Web,Drama,,Não
+10456,Cliente_456,2023-12-20,18,45,139,4,2,0,Básico,Boleto,Smart TV,Drama,,Não
+10457,Cliente_457,2025-07-30,1,44,124,6,7,3,Padrão,Cartão de Crédito,Mobile,Ficcção Científica,,Sim
+10458,Cliente_458,2023-10-22,6,42,148,6,2,2,Premium,Cartão de Crédito,Web,Ficcção Científica,,Não
+10459,Cliente_459,2023-12-12,2,33,77,4,3,0,Premium,Cartão de Crédito,Smart TV,Ação,,Não
+10460,Cliente_460,2025-01-06,9,39,177,6,3,1,Padrão,Pix,Smart TV,Comédia,,Não
+10461,Cliente_461,2025-01-30,15,29,158,6,2,2,Básico,Pix,Smart TV,Ficcção Científica,,Não
+10462,Cliente_462,2024-11-30,42,18,196,4,3,0,Básico,Cartão de Crédito,Mobile,Ficcção Científica,,Não
+10463,Cliente_463,2023-10-02,27,40,130,3,1,1,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10464,Cliente_464,2025-02-16,2,67,120,7,6,0,Padrão,Cartão de Crédito,Smart TV,Ação,,Não
+10465,Cliente_465,2024-12-05,21,18,119,2,5,3,Básico,Pix,Smart TV,Documentário,,Não
+10466,Cliente_466,2024-01-02,12,18,135,3,3,1,Padrão,Cartão de Crédito,Mobile,Comédia,,Não
+10467,Cliente_467,2026-01-13,25,23,71,4,2,0,Básico,Pix,Smart TV,Drama,,Não
+10468,Cliente_468,2024-11-12,9,49,101,4,4,2,Premium,Cartão de Crédito,Mobile,Comédia,,Não
+10469,Cliente_469,2025-02-25,3,32,199,4,1,1,Básico,Cartão de Crédito,Smart TV,Drama,,Não
+10470,Cliente_470,2024-12-11,1,29,125,6,3,0,Padrão,Boleto,Web,Drama,,Não
+10471,Cliente_471,2024-08-02,4,37,121,7,6,0,Básico,Boleto,Smart TV,Ficcção Científica,,Não
+10472,Cliente_472,2024-09-04,3,33,116,5,4,0,Básico,Cartão de Crédito,Mobile,Comédia,,Não
+10473,Cliente_473,2026-01-06,14,41,128,4,4,0,Padrão,Boleto,Smart TV,Drama,,Não
+10474,Cliente_474,2025-09-10,15,37,148,4,6,0,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10475,Cliente_475,2025-08-16,8,18,62,4,2,0,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10476,Cliente_476,2025-03-04,9,41,74,9,2,2,Básico,Cartão de Crédito,Web,Comédia,,Não
+10477,Cliente_477,2024-04-27,30,23,117,7,3,1,Padrão,Cartão de Crédito,Web,Drama,,Não
+10478,Cliente_478,2025-08-12,2,22,104,5,4,0,Básico,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10479,Cliente_479,2025-04-08,1,32,88,3,3,6,Básico,Boleto,Mobile,Comédia,,Não
+10480,Cliente_480,2026-02-09,1,18,107,4,2,2,Padrão,Pix,Smart TV,Ação,,Não
+10481,Cliente_481,2024-02-22,9,37,85,7,8,1,Básico,Cartão de Crédito,Mobile,Drama,,Não
+10482,Cliente_482,2024-03-08,22,40,89,7,1,2,Premium,Cartão de Crédito,Smart TV,Drama,,Não
+10483,Cliente_483,2024-08-12,16,48,60,6,4,3,Padrão,Pix,Smart TV,Drama,,Não
+10484,Cliente_484,2023-11-09,1,33,157,6,0,0,Básico,Boleto,Web,Comédia,,Não
+10485,Cliente_485,2024-02-20,10,24,120,6,2,1,Básico,Cartão de Crédito,Smart TV,Comédia,,Não
+10486,Cliente_486,2026-02-13,0,21,175,5,5,1,Premium,Cartão de Crédito,Web,Comédia,,Não
+10487,Cliente_487,2025-04-23,2,41,106,5,1,2,Básico,Cartão de Crédito,Web,Documentário,,Não
+10488,Cliente_488,2024-02-11,3,29,216,3,4,2,Premium,Pix,Web,Documentário,,Não
+10489,Cliente_489,2024-04-14,8,18,165,2,6,0,Básico,Boleto,Smart TV,Comédia,,Não
+10490,Cliente_490,2026-05-11,6,30,71,5,4,3,Padrão,Pix,Mobile,Comédia,,Não
+10491,Cliente_491,2024-05-02,17,48,95,9,6,2,Padrão,Cartão de Crédito,Smart TV,Ficcção Científica,,Não
+10492,Cliente_492,2023-10-18,21,50,193,5,4,0,Padrão,Pix,Smart TV,Comédia,,Não
+10493,Cliente_493,2026-06-08,35,24,95,8,5,0,Básico,Boleto,Mobile,Drama,,Não
+10494,Cliente_494,2024-06-30,14,26,240,10,4,1,Premium,Boleto,Mobile,Comédia,,Não
+10495,Cliente_495,2024-10-17,4,31,178,6,6,4,Padrão,Cartão de Crédito,Web,Comédia,,Sim
+10496,Cliente_496,2024-04-13,10,28,124,8,2,0,Padrão,Cartão de Crédito,Mobile,Ação,,Não
+10497,Cliente_497,2024-02-13,15,49,132,8,3,0,Básico,Boleto,Mobile,Ficcção Científica,,Não
+10498,Cliente_498,2025-03-26,3,35,184,6,5,0,Premium,Cartão de Crédito,Smart TV,Comédia,,Não
+10499,Cliente_499,2023-09-25,8,38,225,8,3,1,Padrão,Cartão de Crédito,Smart TV,Ação,,Não
